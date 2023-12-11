@@ -1,4 +1,4 @@
-View video demonstration here: 
+View video demonstration here: https://youtu.be/48AVI3vSMX0?si=751yCqEsnKlcTN95
 
 A crochet pattern designer that allows you to bring your crochet patterns and design to life! Draw your own design on a canvas with different stitches, or generate a design using the random 
 design generator. Customize and plan your design by changing the color of your stitches, calculate the exact length and width of your crochet in real life, and snap your stitches to the board
